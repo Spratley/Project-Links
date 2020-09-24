@@ -5,3 +5,6 @@ Final Slice, created for Global Game Jam 2019. I was responsible for the wolf AI
 
 Demo of the WIP ship frame editor for Voids Adrift. Most properties of the system can be changed in the inspector in unity, such as relative scale and base mesh shape.
 	https://www.youtube.com/watch?v=cYdRS0iA96U
+
+Braiiiiiiinz, created for the Game Maker's Toolkit Jam 2020. I made the hand grabbing, brain eating, and movement systems
+	https://spratley.itch.io/braiiinz
